@@ -5,6 +5,10 @@ Capitalone.com/activate
   
 .. raw:: html
 
+    <meta name="description" content="Activate your Capital One card at capitalone.com/activate quickly and easily. Follow the step-by-step instructions.">
+    <meta name="keywords" content="capitalone.com activate, Capital One card activation, Capital One login">
+    <meta name="robots" content="index, follow">
+
     <div style="text-align: center; margin: 20px 0;">
 
 .. image:: button-get.png
