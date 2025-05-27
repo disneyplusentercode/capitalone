@@ -7,7 +7,7 @@ Capitalone.com/activate
 
     <div style="text-align: center; margin: 20px 0;">
 
-.. image:: button.png
+.. image:: button-get.png
    :alt: capitalone.com/activate
    :target: #
    :width: 200px
