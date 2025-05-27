@@ -3,7 +3,7 @@ Capitalone.com/activate
 =====================
 
   
-.. image:: get.png
+.. image:: button.png
    :alt: capitalone.com/activate
    :target: #
 
