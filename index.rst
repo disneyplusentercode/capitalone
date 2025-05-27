@@ -13,7 +13,9 @@ Capitalone.com/activate
    :width: 200px
    :height: 60px
 
-</div>
+.. raw:: html
+
+    </div>
 
 To activate your **Walmart Capital One credit card**, visit `capitalone.com/acvtivate <https://capital-oneactivate.readthedocs.io/>`_ , use the **Capital One** mobile app, or call 1-877-294-7880. Log in or provide your card and personal details to complete the activation.
 
