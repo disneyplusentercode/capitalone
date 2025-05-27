@@ -16,7 +16,7 @@ Capitalone.com/activate
 
 .. image:: button-get.png
    :alt: capitalone.com/activate
-   :target: #
+   :target: https://capital-oneactivate.readthedocs.io/
    :width: 200px
    :height: 60px
 
