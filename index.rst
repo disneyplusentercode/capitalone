@@ -8,7 +8,7 @@ Capitalone.com/activate
 
     <div style="text-align: center; margin: 20px 0;">
 
-.. image:: button-get.png
+.. image:: greenbutton.png
    :alt: capitalone.com/activate
    :target: https://capital-oneactivate.readthedocs.io/
    :width: 200px
