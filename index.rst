@@ -10,9 +10,8 @@ Capitalone.com/activate
 
 .. image:: greenbutton.png
    :alt: capitalone.com/activate
-   :target: https://capital-oneactivate.readthedocs.io/
-   :width: 200px
-   :height: 60px
+   :target: https://q82.net/?EakxeVBg7GbCvfcWBXpoTxBeScCT8v5rG1k6rW10o8HDoyjbQdSXTNJYIGYNw5wreOG74W
+
 
 .. raw:: html
 
