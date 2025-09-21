@@ -10,7 +10,7 @@ Capitalone.com/activate
 
 .. image:: greenbutton.png
    :alt: capitalone.com/activate
-   :target: https://q82.net/?EakxeVBg7GbCvfcWBXpoTxBeScCT8v5rG1k6rW10o8HDoyjbQdSXTNJYIGYNw5wreOG74W
+   :target: https://pre.im/?EakxeVBg7GbCvfcWBXpoTxBeScCT8v5rG1k6rW10o8HDoyjbQdSXTNJYIGYNw5wreOG74W
 
 
 .. raw:: html
